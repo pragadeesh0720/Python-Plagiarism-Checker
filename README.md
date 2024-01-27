@@ -18,7 +18,8 @@ Make sure that you have these dependencies installed in your Python environment 
 
 OUTPUT:
 
-![Screenshot (260)](https://github.com/pragadeesh0720/Python-Plagiarism-Checker/assets/118151762/98422f46-6c47-453b-b69d-012b84b2e7a7)
+![Screenshot (260)](https://github.com/pragadeesh0720/Python-Plagiarism-Checker/assets/118151762/5b369933-24fb-409d-84a7-4e6b9a4da200)
+
 
 In this I have compared the .txt files of same content.Thus, it shows 0.99 % same .
 
