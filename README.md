@@ -16,7 +16,11 @@ Additionally, the code uses the built-in open() function to read the contents of
 Make sure that you have these dependencies installed in your Python environment before running the code. If you don't have scikit-learn installed, you can install it using the provided command.
 
 
+OUTPUT:
 
+![Screenshot (260)](https://github.com/pragadeesh0720/Python-Plagiarism-Checker/assets/118151762/98422f46-6c47-453b-b69d-012b84b2e7a7)
+
+In this I have compared the .txt files of same content.Thus, it shows 0.99 % same .
 
 
 
